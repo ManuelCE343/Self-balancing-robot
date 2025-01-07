@@ -6,4 +6,10 @@ In this project. I made a self-balancing robot using Arduino. In this case, I de
 
 ![image](https://github.com/user-attachments/assets/7c6ed7e4-b7bf-459b-9fb3-9910bd31ea9f)
 
+![image](https://github.com/user-attachments/assets/36856047-63c7-435c-b110-672aa0b227a0)
+
+![image](https://github.com/user-attachments/assets/f20857e6-fb35-422f-82cd-eb0eadaad9b5)
+
+![image](https://github.com/user-attachments/assets/d6954cc7-70c7-4c06-b7aa-924221ff1934)
+
 To watch this project, you can click on the following link: https://www.youtube.com/watch?v=V-QC_SkDkOM&t=677s
